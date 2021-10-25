@@ -1,2 +1,2 @@
 # UI-AI-Content
-AI souce codes for beginners and a place to learn 
+AI source codes for beginners and a place to learn 
