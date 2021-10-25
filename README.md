@@ -1,2 +1,2 @@
 # UI-AI-Content
-A place to share our code
+AI souce codes for beginners and a place to learn 
